@@ -11,11 +11,11 @@ PL = "playing"
 JOIN_BUTTLOCK = InlineKeyboardMarkup([        
         [InlineKeyboardButton(
           "🎬『 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 』🎧",
-          url="https://t.me/YOUTUBELI_BOT")]])
+          url="https://t.me/HVYOUTUBEBOT")]])
 JOIN_BUTTLOCK2 = InlineKeyboardMarkup([        
         [InlineKeyboardButton(
           "⭕️『 ʏᴛᴍᴜꜱɪᴄ ᴅʟ 』",          
-          url="https://t.me/HVYOUTUBEBOT")],
+          url="https://t.me/HVYOUTUBEMUSICBOT")],
         [InlineKeyboardButton(
           "🍺『 ɢʀᴏᴜᴘ 』",          
           url="https://t.me/HYPEVOIDS")],
