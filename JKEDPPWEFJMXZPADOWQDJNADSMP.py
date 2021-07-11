@@ -15,7 +15,7 @@ JOIN_BUTTLOCK = InlineKeyboardMarkup([
 JOIN_BUTTLOCK2 = InlineKeyboardMarkup([        
         [InlineKeyboardButton(
           "⭕️『 ʏᴛᴍᴜꜱɪᴄ ᴅʟ 』",          
-          url="https://t.me/YTMLI_BOT")],
+          url="https://t.me/HVYOUTUBEBOT")],
         [InlineKeyboardButton(
           "🍺『 ɢʀᴏᴜᴘ 』",          
           url="https://t.me/HYPEVOIDS")],
